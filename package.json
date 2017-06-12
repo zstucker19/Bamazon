@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "week 12 npm homework",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zstucker19/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "node",
+    "app",
+    "mysql",
+    "database"
+  ],
+  "author": "Zack Tucker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zstucker19/Bamazon/issues"
+  },
+  "homepage": "https://github.com/zstucker19/Bamazon#readme"
+}
